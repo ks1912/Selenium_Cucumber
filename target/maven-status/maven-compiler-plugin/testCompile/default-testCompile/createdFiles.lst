@@ -1,0 +1,9 @@
+pageObjects\Create_Customer_Page.class
+pageObjects\LandingPage.class
+runner\RunnerClass.class
+pageObjects\SignUpConfirmationPage.class
+pageObjects\CustomerLoginPage.class
+stepDefinition\Create_An_Account_StepDefinition.class
+pageObjects\DashboardPage.class
+stepDefinition\Verify_The_User_Details.class
+runner\RunnerTestNG.class

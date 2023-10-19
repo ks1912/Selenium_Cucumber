@@ -1,0 +1,102 @@
+[INFO ] 2023-10-16 15:54:15.245 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-16 15:54:32.951 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-16 15:54:51.447 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Link
+[INFO ] 2023-10-16 15:54:52.463 [main] Create_An_Account_StepDefinition - Filling all the mandatory Fields
+[INFO ] 2023-10-16 15:55:38.794 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Button
+[INFO ] 2023-10-16 15:55:38.968 [main] Create_An_Account_StepDefinition - The user is able to create an account and gets a successful message
+[INFO ] 2023-10-16 15:55:46.426 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-16 15:55:55.606 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-16 15:55:59.496 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-16 17:50:45.640 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-16 17:50:49.720 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-16 17:50:52.259 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Link
+[INFO ] 2023-10-16 17:50:52.679 [main] Create_An_Account_StepDefinition - Filling all the mandatory Fields
+[INFO ] 2023-10-16 17:50:56.088 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Button
+[INFO ] 2023-10-16 17:50:56.389 [main] Create_An_Account_StepDefinition - The user is able to create an account and gets a successful message
+[INFO ] 2023-10-16 17:50:58.744 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-16 17:51:00.842 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-16 17:51:02.140 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-16 18:17:30.971 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-16 18:17:34.795 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-16 18:17:41.095 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Link
+[INFO ] 2023-10-16 18:17:41.562 [main] Create_An_Account_StepDefinition - Filling all the mandatory Fields
+[INFO ] 2023-10-16 18:17:50.803 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Button
+[INFO ] 2023-10-16 18:18:01.112 [main] Create_An_Account_StepDefinition - The scenario failed and evidence is stored in C:\Users\amit.r\eclipse-workspace\org.Feuji.Selenium.Cucumber\target\cucumber-reports\failureVerify the user details after successful creation of Account.png
+[INFO ] 2023-10-16 18:18:03.566 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-16 18:18:06.931 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-16 18:18:10.086 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 16:24:05.395 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-17 16:24:06.788 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 16:24:06.858 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Link
+[INFO ] 2023-10-17 16:24:06.912 [main] Create_An_Account_StepDefinition - Filling all the mandatory Fields
+[INFO ] 2023-10-17 16:24:22.139 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-17 16:24:27.063 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 16:24:29.458 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Link
+[INFO ] 2023-10-17 16:24:29.754 [main] Create_An_Account_StepDefinition - Filling all the mandatory Fields
+[INFO ] 2023-10-17 16:24:31.573 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Button
+[INFO ] 2023-10-17 16:24:41.807 [main] Create_An_Account_StepDefinition - The scenario failed and evidence is stored in C:\Users\amit.r\eclipse-workspace\org.Feuji.Selenium.Cucumber\target\cucumber-reports\failureVerify the user details after successful creation of Account.png
+[INFO ] 2023-10-17 16:24:43.772 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-17 16:24:48.147 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 16:24:49.053 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 16:25:02.442 [main] Create_An_Account_StepDefinition - The scenario failed and evidence is stored in C:\Users\amit.r\eclipse-workspace\org.Feuji.Selenium.Cucumber\target\cucumber-reports\failureVerify the user details when the user is already registered..png
+[INFO ] 2023-10-17 16:28:44.220 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-17 16:28:49.738 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 16:28:51.372 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Link
+[INFO ] 2023-10-17 16:28:51.685 [main] Create_An_Account_StepDefinition - Filling all the mandatory Fields
+[INFO ] 2023-10-17 16:28:53.647 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Button
+[INFO ] 2023-10-17 16:29:03.968 [main] Create_An_Account_StepDefinition - The scenario failed and evidence is stored in C:\Users\amit.r\eclipse-workspace\org.Feuji.Selenium.Cucumber\target\cucumber-reports\failureVerify the user details after successful creation of Account.png
+[INFO ] 2023-10-17 16:29:05.934 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-17 16:29:09.674 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 16:29:10.548 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 16:29:23.821 [main] Create_An_Account_StepDefinition - The scenario failed and evidence is stored in C:\Users\amit.r\eclipse-workspace\org.Feuji.Selenium.Cucumber\target\cucumber-reports\failureVerify the user details when the user is already registered..png
+[INFO ] 2023-10-17 16:47:05.306 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-17 16:47:08.416 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 16:47:08.496 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Link
+[INFO ] 2023-10-17 16:47:08.545 [main] Create_An_Account_StepDefinition - Filling all the mandatory Fields
+[INFO ] 2023-10-17 16:47:10.156 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-17 16:47:12.495 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 16:48:27.481 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-17 16:48:32.602 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 16:48:34.187 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Link
+[INFO ] 2023-10-17 16:48:34.558 [main] Create_An_Account_StepDefinition - Filling all the mandatory Fields
+[INFO ] 2023-10-17 16:48:38.464 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Button
+[INFO ] 2023-10-17 16:48:38.702 [main] Create_An_Account_StepDefinition - The user is able to create an account and gets a successful message
+[INFO ] 2023-10-17 16:48:40.899 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-17 16:48:45.198 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 16:48:46.177 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 17:11:07.035 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-17 17:11:10.925 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 17:11:12.208 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Link
+[INFO ] 2023-10-17 17:11:12.577 [main] Create_An_Account_StepDefinition - Filling all the mandatory Fields
+[INFO ] 2023-10-17 17:11:18.518 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Button
+[INFO ] 2023-10-17 17:11:18.721 [main] Create_An_Account_StepDefinition - The user is able to create an account and gets a successful message
+[INFO ] 2023-10-17 17:11:20.758 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-17 17:11:24.644 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-17 17:11:25.779 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-18 14:31:14.080 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-18 14:31:16.225 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-18 14:31:31.707 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Link
+[INFO ] 2023-10-18 14:31:32.236 [main] Create_An_Account_StepDefinition - Filling all the mandatory Fields
+[INFO ] 2023-10-18 14:31:36.405 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-18 14:31:41.567 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-18 14:31:44.821 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-18 14:35:06.038 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-18 14:35:13.837 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-18 14:35:16.620 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Link
+[INFO ] 2023-10-18 14:35:17.961 [main] Create_An_Account_StepDefinition - Filling all the mandatory Fields
+[INFO ] 2023-10-18 14:35:22.730 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Button
+[INFO ] 2023-10-18 14:35:38.669 [main] Create_An_Account_StepDefinition - The scenario failed and evidence is stored in C:\Users\amit.r\eclipse-workspace\org.Feuji.Selenium.Cucumber\target\cucumber-reports\failureVerify the user details after successful creation of Account.png
+[INFO ] 2023-10-18 14:35:44.834 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-18 14:35:50.086 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-18 14:35:53.113 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-18 14:36:04.209 [main] Create_An_Account_StepDefinition - The scenario failed and evidence is stored in C:\Users\amit.r\eclipse-workspace\org.Feuji.Selenium.Cucumber\target\cucumber-reports\failureVerify the user details when the user is already registered..png
+[INFO ] 2023-10-19 14:18:06.967 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-19 14:18:11.382 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-19 14:18:14.728 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Link
+[INFO ] 2023-10-19 14:18:15.032 [main] Create_An_Account_StepDefinition - Filling all the mandatory Fields
+[INFO ] 2023-10-19 14:18:16.746 [main] Create_An_Account_StepDefinition - Clicking on Create an Account Button
+[INFO ] 2023-10-19 14:18:26.948 [main] Create_An_Account_StepDefinition - The scenario failed and evidence is stored in C:\Users\amit.r\eclipse-workspace\org.Feuji.Selenium.Cucumber\target\cucumber-reports\failureVerify the user details after successful creation of Account.png
+[INFO ] 2023-10-19 14:18:28.940 [main] Create_An_Account_StepDefinition - Logging for CreateAnAccount Class in Chrome Browser...
+[INFO ] 2023-10-19 14:18:33.068 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-19 14:18:33.831 [main] Create_An_Account_StepDefinition - Maximizing the screen and launching the application
+[INFO ] 2023-10-19 14:18:47.317 [main] Create_An_Account_StepDefinition - The scenario failed and evidence is stored in C:\Users\amit.r\eclipse-workspace\org.Feuji.Selenium.Cucumber\target\cucumber-reports\failureVerify the user details when the user is already registered..png
