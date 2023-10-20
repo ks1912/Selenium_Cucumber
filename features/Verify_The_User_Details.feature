@@ -16,7 +16,7 @@ Background: Steps common for all scenarios
      Examples:
      
 	    |FirstName    |LastName    |EmailId             |Pwd            |ConfirmPwd            |AccountType|
-	    | Amit        |Rath        |k108@test.com       |Amit&Test123   | Amit&Test123         | New       |
+	    | Amit        |Rath        |k110@test.com       |Amit&Test123   | Amit&Test123         | New       |
 
 	@Test
 	Scenario Outline: Verify the user details when the user is already registered. 
