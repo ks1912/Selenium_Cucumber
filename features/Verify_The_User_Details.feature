@@ -8,15 +8,15 @@ Background: Steps common for all scenarios
   Scenario Outline: Verify the user details after successful creation of Account 
     
 	    And The user clicks on Create an Account link
-	    When The user enters all the new data "<FirstName>", "<LastName>", "<EmailId>", "<Pwd>", "<ConfirmPwd>" in the Create New Customer Account Page
+	    When The user enters all the new data "<FirstName>", "<LastName>", "<Pwd>", "<ConfirmPwd>" in the Create New Customer Account Page
 	    And The user clicks on Create an Account button
 	    Then The user gets a success message
 	    And Verify the user Details are displayed correctly "<AccountType>"
  
      Examples:
      
-	    |FirstName    |LastName    |EmailId             |Pwd            |ConfirmPwd            |AccountType|
-	    | Amit        |Rath        |k110@test.com       |Amit&Test123   | Amit&Test123         | New       |
+	    |FirstName    |LastName          |Pwd            |ConfirmPwd            |AccountType|
+	    | Amit        |Rath              |Amit&Test123   | Amit&Test123         | New       |
 
 	@Test
 	Scenario Outline: Verify the user details when the user is already registered. 
