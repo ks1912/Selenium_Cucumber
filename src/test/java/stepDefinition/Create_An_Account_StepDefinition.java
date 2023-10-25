@@ -12,6 +12,7 @@ import java.util.Properties;
 
 import org.Feuji.Selenium.Utilities.BaseClass;
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -91,12 +92,16 @@ public class Create_An_Account_StepDefinition extends BaseClass {
 		cp.fillTheMandatoryParameters("Amit", "Rath", "h4@test.com", "Amit&Test123", "Amit&Test123");
     }
 	
-	@When("^The user enters all the new data \"([^\"]*)\", \"([^\"]*)\", \"([^\"]*)\", \"([^\"]*)\", \"([^\"]*)\" in the Create New Customer Account Page$")
-	public void the_user_enters_all_the_new_data_in_the_create_new_customer_account_page(String FirstName, String LastName, String EmailId, String Pwd, String ConfirmPwd) {
+	@When("^The user enters all the new data \"([^\"]*)\",\"([^\"]*)\", \"([^\"]*)\", \"([^\"]*)\" in the Create New Customer Account Page$")
+	public void the_user_enters_all_the_new_data_in_the_create_new_customer_account_page(String FirstName, String LastName, String Pwd, String ConfirmPwd) {
 		Create_Customer_Page cp= new Create_Customer_Page(driver);
-		cp.fillTheMandatoryParameters(FirstName, LastName, EmailId, Pwd, ConfirmPwd);
+		
+		RandomStringUtils rs= new RandomStringUtils();
+		String randomEmailValue=rs.randomAlphanumeric(5);
+		userEmailId= randomEmailValue+"@test.com";
+		cp.fillTheMandatoryParameters(FirstName, LastName, userEmailId, Pwd, ConfirmPwd);
 		username=FirstName+" "+LastName;
-		userEmailId=EmailId;
+		
 		log.info("Filling all the mandatory Fields");
 	}
 	
