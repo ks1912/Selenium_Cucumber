@@ -92,9 +92,22 @@ public class Create_An_Account_StepDefinition extends BaseClass {
 		cp.fillTheMandatoryParameters("Amit", "Rath", "h4@test.com", "Amit&Test123", "Amit&Test123");
     }
 	
-	@When("^The user enters all the new data \"([^\"]*)\",\"([^\"]*)\", \"([^\"]*)\", \"([^\"]*)\" in the Create New Customer Account Page$")
+//	@When("^The user enters all the new data \"([^\"]*)\",\"([^\"]*)\", \"([^\"]*)\", \"([^\"]*)\" in the Create New Customer Account Page$")
+//	public void the_user_enters_all_the_new_data_in_the_create_new_customer_account_page(String FirstName, String FirstName, String Pwd, String ConfirmPwd) {
+//		Create_Customer_Page cp= new Create_Customer_Page(driver);
+//		
+//		RandomStringUtils rs= new RandomStringUtils();
+//		String randomEmailValue=rs.randomAlphanumeric(5);
+//		userEmailId= randomEmailValue+"@test.com";
+//		cp.fillTheMandatoryParameters(FirstName, LastName, userEmailId, Pwd, ConfirmPwd);
+//		username=FirstName+" "+LastName;
+//		
+//		log.info("Filling all the mandatory Fields");
+//	}
+	
+	@When("The user enters all the new data {string}, {string}, {string}, {string} in the Create New Customer Account Page")
 	public void the_user_enters_all_the_new_data_in_the_create_new_customer_account_page(String FirstName, String LastName, String Pwd, String ConfirmPwd) {
-		Create_Customer_Page cp= new Create_Customer_Page(driver);
+        Create_Customer_Page cp= new Create_Customer_Page(driver);
 		
 		RandomStringUtils rs= new RandomStringUtils();
 		String randomEmailValue=rs.randomAlphanumeric(5);
